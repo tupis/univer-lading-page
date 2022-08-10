@@ -1,8 +1,10 @@
 # Univer Landing Page
 
-Exercício proposto pelo Professor Guanabara através do [Curso em Vídeo](https://www.cursoemvideo.com/)
+Landing Page simples e bonita
 
-<img src="https://user-images.githubusercontent.com/95971013/184008584-0fb634e8-60ad-407f-b079-2ce534644302.gif">
+<div width="100%" align="center">
+  <img src="https://user-images.githubusercontent.com/95971013/184008584-0fb634e8-60ad-407f-b079-2ce534644302.gif" width="90%" align="center">
+</div>
 
 ## 🚀 Começando
 

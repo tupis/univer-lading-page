@@ -78,7 +78,7 @@
   justify-content: center;
   align-items: center;
   background-color: #342f57;
-  background-image: url("./images/main-bg.jpg");
+  background-image: url("../images/main-bg.jpg");
   background-blend-mode: overlay;
   background-attachment: fixed;
   height: 100vh;

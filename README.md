@@ -40,9 +40,16 @@ $ code .
 
 ## 📚 Recursos
 
-- Efeito scroll com Javascript
-- Efeito Parallax
-- Animações
+- [x] Efeito scroll com Javascript
+    <div>
+      <img src="https://user-images.githubusercontent.com/95971013/184015299-65af57ca-713e-45da-8c84-0d65021c785e.gif">
+    </div>
+- [x] Efeito Parallax
+- [x] Animações
+  <div>
+    <img src="https://user-images.githubusercontent.com/95971013/184015306-b30d08ab-b902-4e4d-b862-451b3ce6def2.gif">
+  </div
+
 
 ## 🛠️ Construído com
 
